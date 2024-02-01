@@ -60,6 +60,22 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+## Understanding our data
+
+Our dataset was collected with surveys and used in this <a href="https://www.sciencedirect.com/science/article/pii/S2352340919306985"> study</a>.
+
+
+|   Variable    |   Question (in survey)   |   value    |   signification   |
+|---    |:-:    |:-:    |:-:    |
+|   Gender    |   What is your gender?    |   Female / Male     |   Gender     |
+|   Age    |   what is your age?    |   -    |    Age   |
+|   Height    |    what is your height?   |   -    |  Height   |
+|   Weight    |    what is your weight?   |   -    |  Weight   |
+|   family_history_with_overweight    |    Has a family member suffered or suffers from overweight?   |   Yes/No    |  If member of family have overweight    |
+|   FAVC    |    Do you eat high caloric food frequently?   |    Yes/No    |  If people eat high caloric food frequently   |
+|   FCVC    |    Do you usually eat vegetables in your meals?   |    Never/Sometimes/Always   |  Frequency of vegetables eating   |
+
+
 ## Our reflexions (Wiki)
 
 <!-- TO DO (add screenshot) -->

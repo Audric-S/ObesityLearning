@@ -74,7 +74,15 @@ Our dataset was collected with surveys and used in this <a href="https://www.sci
 |   family_history_with_overweight    |    Has a family member suffered or suffers from overweight?   |   Yes/No    |  If member of family have overweight    |
 |   FAVC    |    Do you eat high caloric food frequently?   |    Yes/No    |  If people eat high caloric food frequently   |
 |   FCVC    |    Do you usually eat vegetables in your meals?   |    Never/Sometimes/Always   |  Frequency of vegetables eating   |
-
+| NCP | How many main meals do you have daily? |  1-2/3/>3  | Number a meals/day |
+| CAEC  | Do you eat any food between meals? | No/Sometimes/Frequently/sometimes | If poeple eat between meals |
+| SMOKE | Do you smoke?	| yes/no| If people smoke |
+|CH2O|How much water do you drink daily?| <1L/1-2L/>2L| Quantity of water drinks/day|
+|SCC|Do you monitor the calories you eat daily?| yes/no| If people count calories eats|
+|FAF|How often do you have physical activity?| NOT/1-2 days/2-4days/4-5days| Number of days wuth physical activity/week|
+| TUE |How much time do you use technological devices such as cell phone, videogames, television, computer and others?| 0-2/3-5/>5| Hours/days with technological devices|
+|CALC|how often do you drink alcohol?| NOT/sometimes/Frequently/always| Level of alcohol drinking|
+|MTRANS|Which transportation do you usually use?| Automobile/Motorbike/Bike/Public Transportation/Walking | Transportation that people use |
 
 ## Our reflexions (Wiki)
 

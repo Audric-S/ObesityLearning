@@ -9,13 +9,8 @@ Diagramme 2 :
 Diagramme 3 : bonne répartition de chaque classe. Ainsi nous n'avons pas besoin de faire du sur/sous échantillonage. (faire un petit rappel sur ce qu'es le sur/sous échantillonage)
 
 méthodes d’apprentissage supervisé populaires :
-* KNN
-* Régression linéaire
-* Régression logistique
 * SVM
 * Arbre de décision : simple 
-* Arbre aléatoire
-* NN (réseau de neurone)
 
 
 Chose à réaliser dans l'ordre :
